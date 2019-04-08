@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/Jack/Documents/project1/Results\\DataVisual\\mnist_embedding.ckpt"
+all_model_checkpoint_paths: "C:/Users/Jack/Documents/project1/Results\\DataVisual\\mnist_embedding.ckpt"
